@@ -1,0 +1,6 @@
+- Hạt khô nảy mầm:
+	- Đại mạch - barley
+	- Đại mạch đen - rye
+	- Lúa mì
+	- Bắp: ko phổ biến vì ko ngon
+	- Gạo

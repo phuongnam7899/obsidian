@@ -1,0 +1,4 @@
+- Manage/consult the User experience Journey
+- Propose/design UI that  meets user needs
+- Research on user behavior
+- Provide/manage prototype for features

@@ -1,0 +1,68 @@
+---
+- tags: [[]]
+- created date: 2022-05-31
+- source: 
+---
+
+-   Conducted to understand your end user better
+-   Contains analytical tasks of data:
+    -   [[Quantitative research]]: gathering numerical data to understand user behavior
+    -   [[Qualitative research]]: understand the target audience’s problems, motivations, opinions, and reasons
+# Values
+- UXR: 
+	- Focus on understand user behaviors, needs, motivation 
+	- Through observation techniques, tasks analysis, and other feedback technologies
+	- Aim to improving usability of prducts
+- [[Emma's Funnel Model]]
+- ==Secondary research==  
+# Methods
+20 methods
+# Process 
+- [[Double diamond]]
+- Idea -> Hypothesis -> Design -> Prototype -> Implement -> Exeriment
+- Assumption & hypothesis
+	- Hypothesis: Need data analysis to test, kiểm chứng bằng số liệu thống kê
+	- Assumption: Giả định cho trc để đi nghiên cứu cái gì đó
+- Meet your user:
+	- Talk
+	- Test (flow)
+	- Observe
+	- Question (open-ended )
+- Tools
+	- Discussion guide
+	- Prototype/Flow
+- UXR Process
+	- Designing research:
+		- Background
+		- Business objecttive
+		- Research Objective
+		- Hypothesis
+	- Screening
+		- Target user
+		- Sample size
+		- Quant's findings
+		- Disscusion guide
+	- Field work
+		- User recruitment
+		- In-depth interview
+	- Reporting
+		- To answer research Question and to confirm the hypothesis
+		- KPI to track
+	- start -> (open ended - spetify - why) -> Closing   
+# Notice
+- Dont listen to user, because what user day and do are different
+- Create a safe environment for user
+- Human memory is fallible:
+	- Need to give them the context to be easier to remember
+- Users are pragmatic and concrete
+	- User # designer
+	- [[User mental model]]
+- Advoid leading questions / closed ended question
+- Each method has its strength and weakness
+- [[Rainbow Speadsheet]]
+- Books:
+	- Validate product idea
+	- 
+---
+- tags: [[UX]]
+---

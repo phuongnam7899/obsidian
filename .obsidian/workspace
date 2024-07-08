@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "1468cef4bc16a526",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff59e0ccc5b4974",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a045116be90f47b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72de0e11d3387ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8ecb136095af55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ac8e3a68e21b4a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 727
+  },
+  "right": {
+    "id": "f5b4dc13370a60f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "501e8d369721fab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7622a09db8d76a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ff59e0ccc5b4974",
+  "lastOpenFiles": [
+    "Untitled/Untitled.md"
+  ]
+}

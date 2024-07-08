@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasAlignLeft",
+      "RiBuilding4Fill",
+      "FasBook",
+      "FasPenNib",
+      "RiFileFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Blog": "FasPenNib",
+  "Books": "FasBook",
+  "Files": "RiFileFill",
+  "Jobs": "RiBuilding4Fill",
+  "Journal": "FarCalendarDays",
+  "Junk": "RiDeleteBinFill",
+  "NewScripts": "FabJsSquare",
+  "Notes": "RiStickyNoteFill",
+  "People": "FasPerson",
+  "Places": "FasUmbrellaBeach",
+  "Templates": "FasAlignLeft",
+  "Organization": "FasBuildingColumns"
+}

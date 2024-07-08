@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c1ae459a601a8ab3","x":-521,"y":-35,"width":250,"height":91,"type":"text","text":"gather enough facts to illuminate their piece of the problem"},
+		{"id":"351cec1a2589e63a","x":-193,"y":-35,"width":250,"height":91,"type":"text","text":"drawn up an initial hypothesis for the problem"},
+		{"id":"70902bac1dd672ae","x":138,"y":-40,"width":250,"height":101,"type":"text","text":"gather the facts necessary (when put through the appropriate analyses) to support or refute it"}
+	],
+	"edges":[
+		{"id":"8f85f93b5a2cd9f1","fromNode":"c1ae459a601a8ab3","fromSide":"right","toNode":"351cec1a2589e63a","toSide":"left"},
+		{"id":"e7f892d3d43078ff","fromNode":"351cec1a2589e63a","fromSide":"right","toNode":"70902bac1dd672ae","toSide":"left"}
+	]
+}

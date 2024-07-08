@@ -1,0 +1,50 @@
+- **Meet the users’ needs**
+    -   Learn what users are looking for in a design (through user testing and other methods)
+    -   ‘U’ in UX does not stand for ‘you’! It’s all about the user,
+-   **Know where you are in the design process**
+    -   Use different tools
+    -   Ask the right questions for user research
+-   **Have a clear hierarchy**
+    -   How content or information is organized throughout the design
+    -   What need to be seen first, then what, then what,...
+-   **Keep it consistent**
+    -   Similarities with other products that user regularly use → Reduce learning cost → Enhances experience
+    -   Also make design process easier
+-   **Understand accessibility**
+    -   Make sure that the design is usable for as many people as possible
+    -   Remove obstacles from the design layout for problem-free navigation
+-   **Context is key**
+    -   Location, time, emotion state, which device to use, ...
+    -   To understand the user’s behavior → better preparation
+-   **Usability first**
+    -   No matter how nice your design is, it won’t strike a chord with the user unless it is safe and easy to use.
+    -   Concentrate on clarity by bringing only useful features to the user’s attention.
+    -   Usability testing asks users to interact with the design → notes to see whether they encounter any problems → If many people experience similar problems → make changes to the design
+-   **Less is more**
+    -   Reduce the operational and cognitive costs
+    -   Usability and consistency improve.
+-   **Use simple language**
+    -   Avoid technical terms and opt for simple language
+    -   Factor in five points:
+        -   Audience and purpose of the design: question who your audience is, what information they have, what they need, and what they will want to achieve with your communication
+        -   Structure: ask about the common structures for your communication, what structures your readers are familiar with, and what sequence will be easy to read
+        -   Design layout: focus on the typography, layout, and information graphics
+        -   Expression: consider the tone, verbs, sentence length, jargon, and choice of words your communication will adopt
+        -   Evaluation: have someone review the text you finalize and conduct a usability test
+-   **Feedback matters**
+    -   Feedback is a crucial way to encourage communication between humans and machines.
+-   **Confirm before you commit**
+    -   Accidents happen all the time → Your design should help people correct this
+    - To prevent the error
+-   **The user is in control**
+    -   User control focuses on greater flexibility of use and better control
+    -   Examples: "Go to top" button, "Cancel" button, "Undo",...
+-   **Design with personality**
+    -   Users find it hard to connect with a lifeless design, device, or code.
+-   **Visual grammar**
+    -   Consists of everything that makes up the visual elements of a design: icons, illustrations, patterns, and more.
+    -   Core elements of planes, points, and lines
+-   **Narrative design (telling a story with your design)**
+
+
+[[UX]]

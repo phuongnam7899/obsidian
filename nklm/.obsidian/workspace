@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "8bebf875cdc79fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e6eef4db5163f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Advanced Techniques In Day Trading.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74ba49a15918b490",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0c11a02f871d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187df09327d6898a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce372fff304d13a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "right": {
+    "id": "daf95804b1b58de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "14cbc846c11ae00d",
+        "type": "tabs",
+        "dimension": 63.98963730569949,
+        "children": [
+          {
+            "id": "79d8e26ab915fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Advanced Techniques In Day Trading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ec375d5ae247fd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Advanced Techniques In Day Trading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d0af4b6e45ccdfb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9108c2d0aa852b59",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a09477a964517fe",
+        "type": "tabs",
+        "dimension": 36.01036269430052,
+        "children": [
+          {
+            "id": "622d33dc1a09348e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Books/Advanced Techniques In Day Trading.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.35803064182171546,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "active": "75e6eef4db5163f6",
+  "lastOpenFiles": [
+    "Notes/float.md",
+    "Books/Advanced Techniques In Day Trading.md",
+    "Notes/Text styles.md",
+    "Notes/MARKDOWN.md",
+    "Notes/Day Trading.md",
+    "Books/Giao dịch bằng đồ thị nến Nhật.md",
+    "Books/Homo Deus.md",
+    "Notes/Andrew Aziz.md",
+    "People/Yuval Noah Harari.md",
+    "Notes/Untitled.md"
+  ]
+}

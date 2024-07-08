@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": false,
+  "spellcheckLanguages": null,
+  "tabSize": 4,
+  "vimMode": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Files",
+  "fileSortOrder": "alphabetical",
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

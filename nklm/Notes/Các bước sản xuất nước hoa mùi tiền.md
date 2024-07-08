@@ -1,0 +1,12 @@
+---
+- tags: [[]]
+- created date: 2022-06-04
+- source: 
+---
+
+- Thu hoạch tiền tươi nguyên chất từ các trường đại học, cao đẳng, thpt, thcs, tiểu học, mẫu giáo, trường nghề,...  
+- Phơi tiền khô vì tiền đang dính rất nhiều mồ hôi công sức của các học sinh. Nhiệt độ phơi được kiểu soát nghiêm ngặt luôn > 70°C và < 70.1°C. Tiền được phơi trong 7749 giờ. Trong khi phơi phải cho tiền nghe nhạc 69 nhịp/ phút.
+- 
+---
+- tags: [[Thai's story]]
+---

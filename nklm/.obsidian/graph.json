@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "line:([[Technology]])",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file: TECHNOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "line:([[UI]])",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "line:([[UX]])",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "line:([[UI-UX Design]])",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file: UI-UX Design",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "line:([[Culture]])",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "line:([[History]])",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "file: CULTURAL",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "file: HISTORY",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "line:([[INVESTMENT]])",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file:INVESTMENT.md",
+      "color": {
+        "a": 1,
+        "rgb": 13476956
+      }
+    },
+    {
+      "query": "line:([[FINANCE]])",
+      "color": {
+        "a": 1,
+        "rgb": 16736312
+      }
+    },
+    {
+      "query": "file:FINANCE.md",
+      "color": {
+        "a": 1,
+        "rgb": 16736312
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 2.0846047008547,
+  "lineSizeMultiplier": 1.48205128205128,
+  "collapse-forces": false,
+  "centerStrength": 0.418803418803419,
+  "repelStrength": 16.1709401709402,
+  "linkStrength": 1,
+  "linkDistance": 326,
+  "scale": 0.10767725050959452,
+  "close": false
+}

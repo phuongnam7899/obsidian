@@ -1,0 +1,14 @@
+
+- [[Product manager]]
+- Development team: ==Directly involved== in the process of making the product
+	- Developers
+	- Tester
+	- [[Designer (UI-UX)]]
+	- [[Data team]]: Analyst the data and provide the insight that directly affect the product
+- Data Analyst: Build report/dashboard
+- Scrum master / Project manager / Team manager
+- [[Stakeholder]]:
+	- Business
+	- Marketer
+	- Accountant
+	- ...

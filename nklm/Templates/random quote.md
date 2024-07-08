@@ -1,0 +1,2 @@
+<% tp.user.quotes('getRandomQuote')() %>
+

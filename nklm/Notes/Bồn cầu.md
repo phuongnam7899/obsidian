@@ -1,1 +1,0 @@
-- Cái nắp cạp cạp như miệng

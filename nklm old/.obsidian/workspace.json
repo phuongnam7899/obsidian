@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7e50639e60fbcd",
+        "id": "134643f0047e72af",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfbbc73fe5f3480",
+            "id": "2d2b1542bd6294b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/breakthrough in monetary history.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "breakthrough in monetary history"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -128,8 +123,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -138,8 +133,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -165,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7972aad8c9293a42",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
         "currentTab": 5
@@ -180,7 +185,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/breakthrough in monetary history.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,12 +207,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15127483685095947,
+                  "scale": 0.41686443135857704,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of breakthrough in monetary history"
+              "title": "Graph view"
             }
           }
         ]
@@ -219,45 +223,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "622d33dc1a09348e",
+  "active": "187df09327d6898a",
   "lastOpenFiles": [
-    "Notes/When to split function.md",
-    "Notes/Breadcrumbs.md",
-    "Notes/Bồn cầu.md",
-    "Notes/Block.md",
-    "Notes/Biology.md",
-    "Notes/Bia.md",
-    "Notes/begining of scientific revolution.md",
-    "Notes/Basic typescript.md",
-    "Notes/basic process for running business experiments.md",
-    "Notes/Base of human cooporation.md",
-    "Notes/Bank info.md",
-    "Notes/Backend.md",
-    "Notes/Avoid side effect.md",
-    "Notes/Avoid overdo spliting code.md",
-    "Books/Advanced Techniques In Day Trading.md",
-    "Notes/Automation testing flow.md",
-    "Notes/Automation test.md",
-    "Notes/ATR.md",
-    "Notes/ASCII.md",
-    "Notes/Aristoteles.md",
-    "Notes/AppiumLibrary.md",
-    "Notes/Animation Controlled By Scroll.md",
-    "Notes/UX.md",
-    "Notes/Animation.md",
-    "Notes/Andrew Aziz.md",
-    "Notes/Anchoring with caret and dollar.md",
+    "Notes/Empathy Mapping.md",
+    "Notes/Empathize.md",
+    "Notes/Emma's Funnel Model.md",
+    "Notes/Elliot waves.md",
+    "Notes/Effect of God.md",
+    "Notes/ECONOMICS.md",
+    "Notes/Dump DB.md",
+    "Notes/Dump database in workbench.md",
+    "Notes/DRY principle.md",
+    "Notes/Double diamond.md",
+    "Notes/DOM manipulating.md",
+    "Notes/DOM.md",
+    "Notes/Doji ma thuật.md",
+    "Notes/Doherty Threshold.md",
+    "Notes/Do we choose desire randomly or freely.md",
+    "Notes/Django.md",
+    "Notes/dividend.md",
+    "Notes/Dirox team.md",
+    "Notes/Different between classes, objects & data structures, data container.md",
+    "Notes/Diễn Viên.md",
+    "Notes/Did human lived harmonyly with natural.md",
+    "Notes/Designer (UI-UX).md",
+    "Notes/Design thinking.md",
+    "Notes/Design Styles.md",
+    "Notes/Design Pattern.md",
+    "Notes/Dependancy Inversion Principle.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

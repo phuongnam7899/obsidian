@@ -11,15 +11,13 @@
             "id": "7dfbbc73fe5f3480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notes/breakthrough in monetary history.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "nklm old/Notes/breakthrough in monetary history.md",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "breakthrough in monetary history"
+              "icon": "git-pull-request",
+              "title": "Diff View (breakthrough in monetary history)"
             }
           }
         ]
@@ -180,7 +178,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/breakthrough in monetary history.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of breakthrough in monetary history"
+              "title": "Graph view"
             }
           }
         ]
@@ -230,8 +227,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "622d33dc1a09348e",
+  "active": "7dfbbc73fe5f3480",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Notes/breakthrough in monetary history.md",
     "Notes/When to split function.md",
     "Notes/Breadcrumbs.md",
     "Notes/Bồn cầu.md",
@@ -256,8 +255,6 @@
     "Notes/Animation Controlled By Scroll.md",
     "Notes/UX.md",
     "Notes/Animation.md",
-    "Notes/Andrew Aziz.md",
-    "Notes/Anchoring with caret and dollar.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

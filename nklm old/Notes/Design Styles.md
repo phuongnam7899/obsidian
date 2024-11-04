@@ -1,3 +1,0 @@
-[[Mordern Minimal]]
-
-[[UI]]

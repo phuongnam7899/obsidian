@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/End user.md",
+                "file": "Notes/Experience architcture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End user"
+              "title": "Experience architcture"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/End user.md",
+                "file": "Notes/Experience architcture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of End user"
+              "title": "Graph of Experience architcture"
             }
           }
         ]
@@ -232,8 +232,13 @@
   },
   "active": "7dfbbc73fe5f3480",
   "lastOpenFiles": [
-    "Notes/Empathy Mapping.md",
+    "Notes/exam type or exam level.md",
+    "Notes/Evaluate stock by 4M method.md",
+    "Notes/Essential navigation commands.md",
+    "Notes/Essential Graphic Design Theory.md",
+    "Notes/Escaping with backslash.md",
     "Notes/End user.md",
+    "Notes/Empathy Mapping.md",
     "Notes/CANSLIM Method.md",
     "Notes/Chế độ offline.md",
     "Notes/Capitalism.md",
@@ -253,11 +258,6 @@
     "Notes/Backend.md",
     "Notes/Avoid side effect.md",
     "Notes/Avoid overdo spliting code.md",
-    "Books/Advanced Techniques In Day Trading.md",
-    "Notes/Automation testing flow.md",
-    "Notes/Automation test.md",
-    "Notes/ATR.md",
-    "Notes/ASCII.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

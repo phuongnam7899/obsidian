@@ -11,13 +11,15 @@
             "id": "7dfbbc73fe5f3480",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "nklm old/Notes/breakthrough in monetary history.md",
-                "staged": true
+                "file": "Notes/End user.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (breakthrough in monetary history)"
+              "icon": "lucide-file",
+              "title": "End user"
             }
           }
         ]
@@ -178,6 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/End user.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of End user"
             }
           }
         ]
@@ -229,6 +232,11 @@
   },
   "active": "7dfbbc73fe5f3480",
   "lastOpenFiles": [
+    "Notes/Empathy Mapping.md",
+    "Notes/End user.md",
+    "Notes/CANSLIM Method.md",
+    "Notes/Chế độ offline.md",
+    "Notes/Capitalism.md",
     "conflict-files-obsidian-git.md",
     "Notes/breakthrough in monetary history.md",
     "Notes/When to split function.md",
@@ -250,11 +258,6 @@
     "Notes/Automation test.md",
     "Notes/ATR.md",
     "Notes/ASCII.md",
-    "Notes/Aristoteles.md",
-    "Notes/AppiumLibrary.md",
-    "Notes/Animation Controlled By Scroll.md",
-    "Notes/UX.md",
-    "Notes/Animation.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

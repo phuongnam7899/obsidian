@@ -57,7 +57,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -230,7 +230,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7dfbbc73fe5f3480",
+  "active": "187df09327d6898a",
   "lastOpenFiles": [
     "Notes/exam type or exam level.md",
     "Notes/Evaluate stock by 4M method.md",

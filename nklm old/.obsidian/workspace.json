@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7e50639e60fbcd",
+        "id": "6fe2fca6ef36e56f",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfbbc73fe5f3480",
+            "id": "5566063fc05b9c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Experience architcture.md",
+                "file": "Notes/Hick’s Law.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experience architcture"
+              "title": "Hick’s Law"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Experience architcture.md",
+                "file": "Notes/Hick’s Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Experience architcture"
+              "title": "Graph of Hick’s Law"
             }
           }
         ]
@@ -230,34 +230,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "187df09327d6898a",
+  "active": "5566063fc05b9c5f",
   "lastOpenFiles": [
-    "Notes/exam type or exam level.md",
-    "Notes/Evaluate stock by 4M method.md",
-    "Notes/Essential navigation commands.md",
-    "Notes/Essential Graphic Design Theory.md",
-    "Notes/Escaping with backslash.md",
-    "Notes/End user.md",
-    "Notes/Empathy Mapping.md",
-    "Notes/CANSLIM Method.md",
-    "Notes/Chế độ offline.md",
-    "Notes/Capitalism.md",
-    "conflict-files-obsidian-git.md",
-    "Notes/breakthrough in monetary history.md",
-    "Notes/When to split function.md",
-    "Notes/Breadcrumbs.md",
-    "Notes/Bồn cầu.md",
-    "Notes/Block.md",
-    "Notes/Biology.md",
-    "Notes/Bia.md",
-    "Notes/begining of scientific revolution.md",
-    "Notes/Basic typescript.md",
-    "Notes/basic process for running business experiments.md",
-    "Notes/Base of human cooporation.md",
-    "Notes/Bank info.md",
-    "Notes/Backend.md",
-    "Notes/Avoid side effect.md",
-    "Notes/Avoid overdo spliting code.md",
+    "Notes/Heading.md",
+    "Notes/Hệ thống toà Việt-Mỹ.md",
+    "Notes/Happyness and the expectation.md",
+    "Notes/Hành vi bầy đàn.md",
+    "Notes/Grouping with parenthses.md",
+    "Notes/Graphic design vs UIUX design.md",
+    "Notes/google search ui exercise.md",
+    "Notes/Google Java Format Plugin.md",
+    "Notes/Google IO extended 2022.md",
+    "Notes/Goal-Gradient Effect.md",
+    "Notes/goal of startup.md",
+    "Notes/GO.md",
+    "Notes/Gmail Account.md",
+    "Notes/Gestalt Principle.md",
+    "Notes/Game theory.md",
+    "Notes/fundamental insight of polytheism.md",
+    "Notes/Fundamental Analysis.md",
+    "Notes/Function and Methods.md",
+    "Notes/Frontend web developer.md",
+    "Notes/Frontend.md",
+    "Notes/Free gift better than discount.md",
+    "Notes/Free choice.md",
+    "Notes/four key areas of your organization to identify your objectives and key business questions.md",
+    "Notes/Flat design.md",
+    "Files/Pasted image 20241106212619.png",
+    "Notes/Fix Wifi not show up.md",
+    "Notes/five things to consider when choose metric.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

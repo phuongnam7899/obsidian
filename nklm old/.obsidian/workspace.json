@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ideate.md",
+                "file": "Notes/Inportant number to see in balance sheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideate"
+              "title": "Inportant number to see in balance sheet"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Ideate.md",
+                "file": "Notes/Inportant number to see in balance sheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ideate"
+              "title": "Graph of Inportant number to see in balance sheet"
             }
           }
         ]
@@ -242,8 +242,16 @@
   },
   "active": "ec392a4a127e36c1",
   "lastOpenFiles": [
-    "Notes/Wireframe.md",
+    "Notes/McKinsey Problem Solving Diagram.canvas",
+    "Notes/innerText vs textContent.md",
+    "Notes/Initial hypothesis.md",
+    "Notes/McKinsey Problem Solving.md",
+    "Notes/Information architecture.md",
+    "Notes/Income, expense, benefit.md",
+    "Notes/Important number to see in Income statement.md",
+    "Notes/If we do not know who the customer is.md",
     "Notes/Ideate.md",
+    "Notes/Wireframe.md",
     "Notes/I message techniq.md",
     "Notes/HUST.md",
     "Notes/human change from comunity member to individual.md",
@@ -260,15 +268,7 @@
     "Notes/how did humans organise themselves in mass-cooperation networks.md",
     "Notes/How big data help.md",
     "Notes/Horizontal formatting.md",
-    "Notes/Holistic Product.md",
-    "Notes/HISTORY.md",
-    "Notes/historian purpose.md",
-    "Notes/Hierachy roles.md",
-    "Notes/Imagined order.md",
-    "Notes/Hick’s Law.md",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241106212619.png",
-    "Notes/Free gift better than discount.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

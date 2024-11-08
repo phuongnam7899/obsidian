@@ -1,4 +1,3 @@
-# Ngôn ngữ thiết kế
 - Ngôn ngữ là phương tiện để truyền tải nội dung => thiết kế cũng là một loại ngôn ngữ thuộc về thị giác
 - Có 3 phần cơ bản
 ## Design elements

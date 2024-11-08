@@ -1,3 +1,0 @@
-Minimum Viable Product
-
-[[BUSINESS]]

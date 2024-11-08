@@ -1,3 +1,0 @@
-- choose image
-- click on the water drop - blend mode
-- change to "Luminosity"

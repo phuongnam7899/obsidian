@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/human change from comunity member to individual.md",
+                "file": "Notes/Ideate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "human change from comunity member to individual"
+              "title": "Ideate"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/human change from comunity member to individual.md",
+                "file": "Notes/Ideate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of human change from comunity member to individual"
+              "title": "Graph of Ideate"
             }
           }
         ]
@@ -242,6 +242,9 @@
   },
   "active": "ec392a4a127e36c1",
   "lastOpenFiles": [
+    "Notes/I message techniq.md",
+    "Notes/HUST.md",
+    "Notes/human change from comunity member to individual.md",
     "Notes/human and data.md",
     "Notes/HTML.md",
     "Notes/How to trade in stock.md",
@@ -266,9 +269,6 @@
     "Notes/Free gift better than discount.md",
     "Notes/four key areas of your organization to identify your objectives and key business questions.md",
     "Notes/Free choice.md",
-    "Notes/Experience architcture.md",
-    "Notes/Empathy Mapping.md",
-    "Notes/Empathize.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

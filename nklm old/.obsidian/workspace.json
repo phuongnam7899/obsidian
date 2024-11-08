@@ -4,20 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "134643f0047e72af",
+        "id": "6f939807a2e5edfe",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2b1542bd6294b1",
+            "id": "91d7567b8d2ec258",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Free choice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free choice"
+            }
+          },
+          {
+            "id": "5e521f375b25a09a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Free choice.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Free choice"
             }
           }
         ]
@@ -234,8 +253,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "187df09327d6898a",
+  "active": "5e521f375b25a09a",
   "lastOpenFiles": [
+    "Notes/Free gift better than discount.md",
+    "Notes/four key areas of your organization to identify your objectives and key business questions.md",
+    "Notes/Free choice.md",
+    "Notes/Experience architcture.md",
     "Notes/Empathy Mapping.md",
     "Notes/Empathize.md",
     "Notes/Emma's Funnel Model.md",
@@ -258,10 +281,6 @@
     "Notes/Diễn Viên.md",
     "Notes/Did human lived harmonyly with natural.md",
     "Notes/Designer (UI-UX).md",
-    "Notes/Design thinking.md",
-    "Notes/Design Styles.md",
-    "Notes/Design Pattern.md",
-    "Notes/Dependancy Inversion Principle.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

@@ -1,9 +1,0 @@
-   - Reach: base on data
-- Impact: base on research
-- Confident: base on you
-- Effort of feature:
-	- Design
-	- Development
-	- Tesint
-	- Launching
-	- Risks

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ngôn ngữ thiết kế.md",
+                "file": "Notes/UTM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ngôn ngữ thiết kế"
+              "title": "UTM"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Ngôn ngữ thiết kế.md",
+                "file": "Notes/UTM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ngôn ngữ thiết kế"
+              "title": "Graph of UTM"
             }
           }
         ]
@@ -242,32 +242,33 @@
   },
   "active": "bd9d8c932ecbd765",
   "lastOpenFiles": [
-    "Notes/Nghịch lý trong toán học.md",
-    "Notes/New note.md",
-    "Notes/Neanderthals.md",
-    "Notes/Naming when program.md",
-    "Notes/Naming Variable, Constants & Properties.md",
-    "Notes/Naming functions-methods.md",
-    "Notes/Naming classes.md",
-    "Notes/MySQL Workbench.md",
-    "Notes/MySQL.md",
-    "Notes/MVP.md",
-    "Notes/Muốn làm ông già noel đi phát quà nhưng k dậy được đêm.md",
-    "Notes/Muốn có 1 tòa nhà view hồ.md",
-    "Notes/Multiverse.md",
-    "Notes/Moving Average - MA.md",
-    "Notes/mount a revolution.md",
-    "Notes/Mordern Minimal.md",
-    "Notes/Moral Authority.md",
-    "Notes/Mood board.md",
-    "Notes/monotheist vs buddhism.md",
-    "Notes/monotheist.md",
-    "Notes/Monotheism and Dualism.md",
-    "Notes/Monochromatic Color Schemes.md",
-    "Notes/Mongo DB.md",
-    "Notes/money.md",
-    "Notes/Modern Psychology.md",
-    "Notes/Modeling UI States in A React Form Component Using A Finite State Machine (FMS).md",
+    "Notes/useRef example.md",
+    "Notes/User-centered design.md",
+    "Notes/User Story.md",
+    "Notes/User stories.md",
+    "Notes/User research.md",
+    "Notes/User Empathy.md",
+    "Notes/Useful chrome extensions.md",
+    "Notes/use of time.md",
+    "Notes/Use Case.md",
+    "Notes/Untitled 3.md",
+    "Notes/Untitled 1.md",
+    "Notes/Untitled.canvas",
+    "Notes/universal order.md",
+    "Notes/Unemployment in future.md",
+    "Notes/Undefined vs Null.md",
+    "Notes/UML.md",
+    "Notes/UIUX course links.md",
+    "Notes/UI-UX Design.md",
+    "Notes/UI Design Pattern.md",
+    "Notes/UI.md",
+    "Notes/Ufinity Team.md",
+    "Notes/Ufinity links.md",
+    "Notes/Ufinity documents.md",
+    "Notes/Udemy account.md",
+    "Notes/UAT.md",
+    "Notes/Typescript.md",
+    "Notes/TV exercise.md",
     "Notes/McKinsey Problem Solving Diagram.canvas",
     "Files/Pasted image 20241106212619.png",
     "Files/Pasted image 20240803093930.png",

@@ -1,2 +1,0 @@
-Akari Tsumugi
-Suzu Honjou

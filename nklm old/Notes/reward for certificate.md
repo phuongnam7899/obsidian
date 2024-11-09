@@ -1,3 +1,0 @@
-https://cmcglobalcompany.sharepoint.com/sites/CMCGlobalG1/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCMCGlobalG1%2FShared%20Documents%2F10%2EG1%5FOffice%2FG1%5FAll%2FCh%C3%ADnh%20s%C3%A1ch%20HR%2F%C4%90%C3%A0o%20t%E1%BA%A1o%5FCh%E1%BB%A9ng%20ch%E1%BB%89%2FCert%20List%2Epdf&parent=%2Fsites%2FCMCGlobalG1%2FShared%20Documents%2F10%2EG1%5FOffice%2FG1%5FAll%2FCh%C3%ADnh%20s%C3%A1ch%20HR%2F%C4%90%C3%A0o%20t%E1%BA%A1o%5FCh%E1%BB%A9ng%20ch%E1%BB%89
-
-[[CMC Global]]

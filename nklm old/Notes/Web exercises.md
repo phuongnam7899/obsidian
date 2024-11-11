@@ -1,7 +1,0 @@
-[[google search ui exercise]]
-[[light switch exercise]]
-[[TV exercise]]
-[[Traffic light exercise]]
-[[Cursor select exercise]]
-[[timer exercise]]
-tags: [[HTML]] [[CSS]] [[Javascript]]

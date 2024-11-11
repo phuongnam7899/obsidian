@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da303659a060701c",
+        "id": "6fe2fca6ef36e56f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9d8c932ecbd765",
+            "id": "5566063fc05b9c5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -52,7 +52,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -123,8 +123,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -133,8 +133,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -159,16 +159,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "7972aad8c9293a42",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
             }
           }
         ],
@@ -207,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.41686443135857704,
+                  "scale": 0.15127483685095947,
                   "close": true
                 }
               },
@@ -223,48 +213,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "187df09327d6898a",
+  "active": "5566063fc05b9c5f",
   "lastOpenFiles": [
-    "Notes/useRef example.md",
-    "Notes/User-centered design.md",
-    "Notes/User Story.md",
-    "Notes/User stories.md",
-    "Notes/User research.md",
-    "Notes/User Empathy.md",
-    "Notes/Useful chrome extensions.md",
-    "Notes/use of time.md",
-    "Notes/Use Case.md",
-    "Notes/Untitled 3.md",
-    "Notes/Untitled 1.md",
-    "Notes/Untitled.canvas",
-    "Notes/universal order.md",
-    "Notes/Unemployment in future.md",
-    "Notes/Undefined vs Null.md",
-    "Notes/UML.md",
-    "Notes/UIUX course links.md",
-    "Notes/UI-UX Design.md",
-    "Notes/UI Design Pattern.md",
-    "Notes/UI.md",
-    "Notes/Ufinity Team.md",
-    "Notes/Ufinity links.md",
-    "Notes/Ufinity documents.md",
-    "Notes/Udemy account.md",
-    "Notes/UAT.md",
-    "Notes/Typescript.md",
-    "Notes/TV exercise.md",
-    "Notes/McKinsey Problem Solving Diagram.canvas",
+    "Notes/Hick’s Law.md",
+    "Notes/Heading.md",
+    "Notes/Hệ thống toà Việt-Mỹ.md",
+    "Notes/Happyness and the expectation.md",
+    "Notes/Hành vi bầy đàn.md",
+    "Notes/Grouping with parenthses.md",
+    "Notes/Graphic design vs UIUX design.md",
+    "Notes/google search ui exercise.md",
+    "Notes/Google Java Format Plugin.md",
+    "Notes/Google IO extended 2022.md",
+    "Notes/Goal-Gradient Effect.md",
+    "Notes/goal of startup.md",
+    "Notes/GO.md",
+    "Notes/Gmail Account.md",
+    "Notes/Gestalt Principle.md",
+    "Notes/Game theory.md",
+    "Notes/fundamental insight of polytheism.md",
+    "Notes/Fundamental Analysis.md",
+    "Notes/Function and Methods.md",
+    "Notes/Frontend web developer.md",
+    "Notes/Frontend.md",
+    "Notes/Free gift better than discount.md",
+    "Notes/Free choice.md",
+    "Notes/four key areas of your organization to identify your objectives and key business questions.md",
+    "Notes/Flat design.md",
     "Files/Pasted image 20241106212619.png",
+    "Notes/Fix Wifi not show up.md",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
     "Files/Pasted image 20240416151859.png",

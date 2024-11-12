@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe2fca6ef36e56f",
+        "id": "da303659a060701c",
         "type": "tabs",
         "children": [
           {
-            "id": "5566063fc05b9c5f",
+            "id": "bd9d8c932ecbd765",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Why did Marx and Lenin succeed where Hong and the Mahdi failed.md",
+                "file": "Books/Advanced Techniques In Day Trading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why did Marx and Lenin succeed where Hong and the Mahdi failed"
+              "title": "Advanced Techniques In Day Trading"
             }
           }
         ]
@@ -57,7 +57,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -128,8 +128,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -138,8 +138,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -165,6 +165,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7972aad8c9293a42",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
         "currentTab": 5
@@ -180,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Why did Marx and Lenin succeed where Hong and the Mahdi failed.md",
+                "file": "Books/Advanced Techniques In Day Trading.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,12 +213,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15127483685095947,
+                  "scale": 0.41686443135857704,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Why did Marx and Lenin succeed where Hong and the Mahdi failed"
+              "title": "Graph of Advanced Techniques In Day Trading"
             }
           }
         ]
@@ -219,45 +229,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "5566063fc05b9c5f",
+  "active": "bd9d8c932ecbd765",
   "lastOpenFiles": [
-    "Notes/who domesticated home sapiens.md",
-    "Notes/where data matter to business.md",
-    "Notes/When to split function.md",
-    "Notes/what to do with 20 percent.md",
-    "Notes/What to bring to user.md",
-    "Notes/What MVP help.md",
-    "Notes/What Makes a Good Metric.md",
-    "Notes/What is unatural.md",
-    "Notes/What is religion.md",
-    "Notes/What is IPO.md",
-    "Notes/what is good data strategy.md",
-    "Notes/What is BA and what value provide.md",
-    "Notes/What I Look for When I Hire a Product Manager.md",
-    "Notes/What differentiates the success startup from the failures.md",
-    "Notes/Web in 2022.md",
-    "Notes/Web exercises.md",
-    "Notes/Web development.md",
-    "Notes/Waterfall.md",
-    "Notes/War Chess.md",
-    "Notes/Vốn điều lệ - Authorized capital.md",
-    "Notes/Volume analize.md",
-    "Notes/Visual design.md",
-    "Notes/viral cycle  time.md",
-    "Notes/viral coefficient.md",
-    "Notes/VIM.md",
-    "Notes/Vertical formatting.md",
+    "Places/Astray.md",
+    "Blog/What happen when enter an URL to browser.md",
+    "Blog/UX is everywhere.md",
+    "Blog/Trekking.md",
+    "Blog/Thought about modest.md",
+    "Blog/Situation-Behavior-Impact.md",
+    "Blog/Shorten import link in React project.md",
+    "Blog/Minto Pyramid.md",
+    "Blog/It depends.md",
+    "Blog/Ishikawa Diagram.md",
+    "Blog/How to surviving in elevetor.md",
+    "Blog/High Order Thinking.md",
+    "Blog/Folder structure for small-medium projects.md",
+    "Blog/Cynefin framework.md",
+    "Blog/Concept map.md",
+    "Blog/BLOGS.md",
+    "Blog/About the first job hopping.md",
+    "Organization/CMC Global.md",
+    "Notes/Zero or small.md",
+    "Notes/Zalo PMT Program.md",
+    "Notes/wwhy capitalism defeat communism.md",
+    "Notes/Write clean function or methods.md",
+    "Notes/Working with errors.md",
+    "Notes/Work-life balance.md",
+    "Notes/Wireframe kits checklist.md",
+    "Notes/Wildcard symbol.md",
+    "Notes/Untitled.canvas",
+    "Notes/McKinsey Problem Solving Diagram.canvas",
     "Files/Pasted image 20241106212619.png",
     "Files/Pasted image 20240803093930.png",
     "Excalidraw",
